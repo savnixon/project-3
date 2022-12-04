@@ -21,8 +21,8 @@ background-color: bisque;
     transition: black;
 }
 
-body {
-    padding: 20px;
-    text-align: center;
-    text: white;
-  }
+p  {
+    size: 200px;
+
+}
+
