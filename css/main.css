@@ -22,13 +22,18 @@ background-color: bisque;
   border: none;
   cursor: pointer;
   padding: 12px;
+  text-shadow: 3x 3px 7px rebeccapurple;
+  text-align: center;
+  font-weight: 700px;
   
 
 }
 p {
   color: white;
   text-align: center;
-  size: 200px;
+  size: 1000px;
+  font-weight: 700px;
+  
 }
 
 
