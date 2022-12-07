@@ -22,8 +22,15 @@ background-color: bisque;
   border: none;
   cursor: pointer;
   padding: 12px;
+  
 
 }
+p {
+  color: white;
+  text-align: center;
+  size: 50px;
+}
+
 
 .hippocampus-team-list {
     padding-left: 0;
