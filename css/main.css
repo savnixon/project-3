@@ -48,10 +48,13 @@ p {
 body {
     background-color: pink;
   }
-  
+
+
+
   img {
+    text-align: center;
+    padding: 20px;
+    size: 20px;
     width: 100%;
     height: auto;
   }
-
-
