@@ -15,11 +15,6 @@ background-color: bisque;
     gap: 16px;
 }
 
-.hippocampus-main-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
 .button { 
   background-color: peru;
