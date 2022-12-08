@@ -15,9 +15,6 @@ background-color: bisque;
     gap: 16px;
 }
 
-font-family: 'Dancing Script', cursive;
-font-family: 'Diplomata SC', cursive;
-
 .button { 
   background-color: peru;
   color: #efefef;
@@ -38,7 +35,7 @@ p {
   size: 8000px;
   font-weight: 100px;
   font-family: 'Dancing Script', cursive;
-font-family: 'Diplomata SC', cursive;
+  font-family: 'Diplomata SC', cursive;
 }
 
 h1 {
@@ -47,7 +44,7 @@ h1 {
   size: 8000px;
   font-weight: 100px;
   font-family: 'Dancing Script', cursive;
-font-family: 'Diplomata SC', cursive;
+  font-family: 'Diplomata SC', cursive;
 
 }
 a {
