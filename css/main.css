@@ -30,11 +30,11 @@ background-color: bisque;
 
 }
 p {
-  color: orangered;
+  color: orchid;
   text-align: center;
   size: 8000px;
   font-weight: 700px;
-  font-family: cursive
+  font-family: 'Diplomata SC', cursive;
   text-size-adjust: 700px;
 }
 
