@@ -36,6 +36,13 @@ p {
   
 }
 
+h1 {
+  color: white;
+  text-align: center;
+  size: 8000px;
+  font-weight: 100px;
+}
+
 
 .hippocampus-team-list {
     padding-left: 0;
