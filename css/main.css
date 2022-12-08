@@ -26,7 +26,6 @@ background-color: bisque;
   text-align: center;
   font-weight: 700px;
   align-items: center;
-  background-color: blueviolet;
 
 }
 p {
@@ -45,6 +44,7 @@ h1 {
   font-weight: 100px;
   font-family: 'Dancing Script', cursive;
   font-family: 'Diplomata SC', cursive;
+  background-color: antiquewhite;
 
 }
 a {
